@@ -10,7 +10,7 @@ The output should look like:
      No, that student is not in the class.
      Please give me the name of a student (enter 'q' to quit): student2
      Yes, that student is in the class!
-     Please give me the name of a student (enter 'q' to quit): q
+     Please give me the name of a student (enter 'q' to quit): q 
      Goodbye!
 """
 
