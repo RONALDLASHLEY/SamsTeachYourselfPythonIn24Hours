@@ -23,5 +23,5 @@ ISBN-13: 978-0-672-33687-4
 ISBN-10:     0-672-33687-1
 
 @Contact Information
-Ronald Lashley
-email: lashleyronald1@gmail.com
+Name: Ronald Lashley
+Email: lashleyronald1@gmail.com
